@@ -1,0 +1,3 @@
+This project is mainly an application on Convolutional Neural Networks. The basic idea is based off of Nvidia’s research paper titled “End to End Learning for Self-Driving Cars”, in which the they trained a convolutional neural network (CNN) to map raw pixels from a single front facing camera directly to steering commands. 
+
+This end to end approach by Nvidia proved significantly powerful, because with minimum training data from humans, the system learns to drive in traffic on local roads with or without lane markings. The accuracy of this model is claimed to be high enough to guide the car in areas with unclear vision, like parking.
